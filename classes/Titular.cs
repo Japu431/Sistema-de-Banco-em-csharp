@@ -1,0 +1,11 @@
+namespace POO.classes.models
+{
+    public class Titular
+    {
+        public string Nome { get; set; }
+        public string CPF { get; set; }
+        public string RG { get; set; }
+        public string Endereco { get; set; }
+        
+    }
+}
